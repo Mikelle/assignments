@@ -32,7 +32,7 @@ In this homework you can use whatever you want for organizing concurrency.
 ### Homework 6 (20.10 - 03.11):
 1. (4 points) The tic-tac-toe game. Console and GUI interfaces. Tests
 for logical and console interface parts.
-2. * (4 points) The same task as 1st one, but on an infinity field.
+2. * (8 points) The same task as 1st one, but on an infinity field.
 3. (4 points) Code review of 1st task.
 
 ### Homework 7 (27.10 - 10.11):
